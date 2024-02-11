@@ -1,15 +1,15 @@
-# String
+# Operator Function
 
 **Objective**
-The purpose of this project is to validate your knowledge of operation function.
+The purpose of this project is to validate your knowledge of operation functions.
 
 
 
 **Problem**
-Create operator function that adds new string to the list of strings by using the operator **+=**
+Create an operator function that adds a new string to the list of strings by using the operator **+=**
 
 **Implementation**
-Create and implement the += operator function that adds new string to the names list.
+Create and implement the += operator function that adds a new string to the names list.
 
 ```cpp
 
